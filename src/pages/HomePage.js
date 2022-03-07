@@ -12,7 +12,7 @@ const HomePageStyle = css`
 const HomePage = () => {
   return (
     <div css={[HomePageStyle]}>
-      <h1 className="title">Hello React!</h1>
+      <h1 className="title">Tutaj będą zadania z fizyki ;)</h1>
     </div>
   );
 };
