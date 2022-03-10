@@ -63,7 +63,7 @@ const Header = () => {
         <div className="logo">
           <Link to="/" replace={pathname === '/'}>
             <LogoIcon />
-            brand
+            Marmo.dev
           </Link>
         </div>
         <div>
