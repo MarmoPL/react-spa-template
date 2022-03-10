@@ -12,7 +12,7 @@ const HomePageStyle = css`
 const HomePage = () => {
   return (
     <div css={[HomePageStyle]}>
-      <h1 className="title">Tutaj będą zadania z fizyki ;)</h1>
+      <h1 className="title">Chcesz połączyć Marmo Bota ze kontem w Spotify? Widocznie się coś nie udało więc spróbuj ponownie ;)</h1>
     </div>
   );
 };
