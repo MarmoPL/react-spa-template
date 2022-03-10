@@ -23,9 +23,9 @@ const Footer = () => {
   return (
     <footer css={[footerStyle]}>
       <nav>
-        <div>{new Date().getFullYear()} &copy; your copyright</div>
+        <div>{new Date().getFullYear()} &copy; MarmoPL - matematycylisa.pl</div>
         <div>
-          <a href="https://github.com/ofnullable/react-spa-template" rel="noopener noreferrer" target="_blank">
+          <a href="https://github.com/MarmoPL" rel="noopener noreferrer" target="_blank">
             <GithubIcon className="github" />
           </a>
         </div>
